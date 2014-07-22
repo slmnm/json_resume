@@ -15,7 +15,7 @@
 		"points":[
 		"Worked on the Android platform for 2 years. Have full understanding of the Android SDK and the design patterns endorsed by the platform.",
 		"Primarily programmed in Java. Have done fairly complex computation for mobile applications by making use of open source technologies and tools on the linux platform. Proficient with object oriented programming.",
-		"Have taken up multiple roles in a startup that are fundamental in the life a mobile project. To put it in English -> Market research, architecting requirements, prototyping and designing user experiences, developing software, testing for bugs, documenting code, writing manuals, and providing customer support.",
+		"Have taken up multiple roles in a startup that are fundamental in the life of a mobile project. To put it in English -> Market research, architecting requirements, prototyping and designing user experiences, developing software, testing for bugs, documenting code, writing manuals, and providing customer support.",
 		"Have been experimenting heavily with HTML5, CSS, Javascript, Git (and Github). Loving it! A recent personal project that I built -> [aapkamp.in](http://aapkamp.in/) . Design and UX is always priority.",
 		"Involved in voluntary work in Indian politics. Web admin for Aam Aadmi Party Mangalore unit. I make heavy use of technology (web and social media) to advocate the cause.",
 		"Technology enthusiast. Highly driven and passionate about creating products for the web (and mobile). Also very passionate about the products I use.",
@@ -52,7 +52,7 @@
                     "items": [
                         "Social Media",
                         "Blogging",
-                        "Internet Marketig",
+                        "Internet Marketing",
                         "Customer Support"
                     ]
                 }
@@ -100,7 +100,7 @@
         "other_projects": {
             "items": [
                 {
-                    "headline": "[AAPkaMP.in | A campaigning tool for Aam Aadmi Party](http://aapkamp.in/)",
+                    "headline": "[AAPkaMP.in | A campaigning tool for Aam Aadmi Party, India](http://aapkamp.in/)",
                     "points": [
                         "A website showcasing the exemplary nature of the MP candidates representing Aam Aadmi Party in the 28 constituencies in Karnataka.",
 		    	"Includes a tumblr blog at [blog.aapkamp.in](http://blog.aapkamp.in/) documenting the journey of Aam Aadmi Party.",
@@ -132,20 +132,20 @@
             "items": [
                 {
                     "title":"Web Admin",
-	            "organisation": "Aam Aadmi Party, Mangalore",
-	            "from": "Mar. 2013",
-	            "to": "Present",
-	            "points": [
-	                "Responsible for making content updates (press releases, events, etc) to the Aam Aadmi Party Mangalore official website -> aapdk.com.",
-	                "Involved in occasional ground level work and public meetings concerning the cause and interests supporting Aam Aadmi Party. Also part of the social media and strategy team.",
-			"Have a personal project in this respect (see personal projects)."
+			        "organisation": "Aam Aadmi Party, Mangalore",
+			        "from": "Mar. 2013",
+			        "to": "Jun. 2013",
+			        "points": [
+			            "Responsible for making content updates (press releases, events, etc) to the Aam Aadmi Party Mangalore official website -> aapdk.com.",
+			            "Involved in occasional ground level work and public meetings concerning the cause and interests supporting Aam Aadmi Party. Also part of the social media and strategy team.",
+						"Have a personal project in this respect (see personal projects)."
 	            ]
                 }
             ]
         },
         "extra_curricular": {
             "items": [
-                "I enjoy reading. Was among top 5% of the 10M readers on Pocket in 2013. Or so I was told :) [See here](http://bit.ly/pocketAward).",
+                "I enjoy reading. Was among top 5% of the 10M readers on Pocket in 2013. Or so I was told :) [bit.ly/pocketAward](http://bit.ly/pocketAward)",
                 "I enjoy writing. Have few blog posts scattered around the web."
             ]
         }
