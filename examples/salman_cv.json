@@ -10,7 +10,7 @@
         "email": " salman315@gmail.com",
         "phone": " +91 7795676501",
         "website": " about.me/SalmanMushir",
-        "stars": ["Android Developer"],
+        "stars": ["Android Developer", "Internet Marketing Specialist"],
 	"summary": {
 		"points":[
 		"Worked on the Android platform for 2 years. Have full understanding of the Android SDK and the design patterns endorsed by the platform.",
@@ -75,7 +75,7 @@
                 {
                     "title": "Android Developer",
                     "organisation": "Indea Engineering",
-		    "location": "Mangalore, India",
+		            "location": "Mangalore, India",
                     "from": "Jul. 2012",
                     "to": "Dec. 2013",
                     "details": [
@@ -94,6 +94,18 @@
                             "myBook Personal Organizer"
                         ]
                     }
+                },
+                {
+                    "title": "Intern Software Developer",
+                    "organisation": "GeniusPort",
+                    "location": "Mangalore, India",
+                    "from": "Aug. 2010",
+                    "to": "Nov. 2010",
+                    "details": [
+                        "Created mocks for potential Android Apps to be built for clients.",
+                        "Tested mobile applications on different screen dimensions and versions of Android using device emulators and actual devices.",
+                        "Learnt about the tools involved and development environment for Android Programming."
+                    ]
                 }
             ]
         },
