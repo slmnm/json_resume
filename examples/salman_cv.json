@@ -10,7 +10,7 @@
         "email": " salman315@gmail.com",
         "phone": " +971 558804041, UAE",
         "website": " about.me/SalmanMushir",
-        "stars": ["Android Developer", "Internet Marketing Specialist"],
+        "stars": ["Technophile", "Android Developer", "Internet Marketing Specialist"],
 	"summary": {
 		"points":[
 		"Worked on the Android platform for 2 years. Have full understanding of the Android SDK and the design patterns endorsed by the platform.",
@@ -125,7 +125,7 @@
         "grad_courses": [
             {
                 "name": "Startup Engineering",
-                "url": "https://learning.accredible.com/48530"
+                "url": "https://www.dropbox.com/s/1e2o89tgya0pftd/Salman%20Mushir%20-%20Startup%20Engineering.pdf"
             },
             {
                 "name": "Programming Mobile Applications for Android Handheld Systems",
@@ -133,11 +133,11 @@
             },
             {
                 "name": "History and Future of (Mostly) Higher Education",
-                "url": "https://learning.accredible.com/48531"
+                "url": "https://www.dropbox.com/s/3b09ft0i66juxs6/Salman%20Mushir%20-%20Coursera%20HigherEd%202014.pdf"
             },
             {
                 "name": "Creativity, Innovation, and Change",
-                "url": "https://learning.accredible.com/48573"
+                "url": "https://www.dropbox.com/s/pi2braje4sphjwd/Salman%20Mushir%20-%20CIC%202013.pdf"
             }
          ],
         "research_experience": {
