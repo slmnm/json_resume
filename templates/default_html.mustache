@@ -42,6 +42,20 @@
 		{{/points}}
 	</ul>
 	{{/summary}}
+    
+    {{#about_me}}
+	<h2><span class="glyphicon glyphicon-user"></span> About Me</h2>
+	<table class="table education">
+		<tr>
+			<th>DOB</th><th>Nationality</th><th>Visa Status</th><th nowrap>Passport No.</th>{{#show_gpa}}<th>Marital Status</th>{{/show_gpa}}
+		</tr>
+		{{#schools}}
+		<tr>
+			<td>{{dob}}</td><td>{{nationality}}</td><td>{{visa_status}}</td><td align="center">{{passport_no}}</td>{{#show_gpa}}<td>{{gpa}}</td>{{/show_gpa}}
+		</tr>
+		{{/schools}}
+	</table>
+	{{/about_me}}
 
 	{{#github_projects}}
 	<h2><span id="github-png"></span>GitHub Projects</h2>

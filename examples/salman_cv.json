@@ -22,6 +22,18 @@
 		"Love learning new things (not just of technology). Evangelist of Massive Open Online Courses. Have a few certificates -> [accredible.com/u/salmanmushir](https://learning.accredible.com/u/salmanmushir)"
 		]
 	},
+        "about_me": {
+	    "show_gpa": true,
+            "schools": [
+                {
+                    "dob": "14 Dec 1988",
+                    "nationality": "Indian",
+                    "visa_status": "Visiting, valid till 19 Oct 2014",
+                    "passport_no": "L3544113",
+                    "gpa": "Single"
+                }
+            ]
+        },
         "skills": {
             "details": [
                 {
@@ -55,7 +67,16 @@
                         "Internet Marketing",
                         "Customer Support"
                     ]
-                }
+                },
+				{
+					"type": "Verbal Languages",
+					"items": [
+						"English",
+						"Hindi",
+						"Malayalam",
+						"Kannada"
+					]
+				}
             ]
         },
         "education": {
@@ -102,7 +123,6 @@
                     "from": "Aug. 2010",
                     "to": "Nov. 2010",
                     "details": [
-                        "Created mocks for potential Android Apps to be built for clients.",
                         "Tested mobile applications on different screen dimensions and versions of Android using device emulators and actual devices.",
                         "Learnt about the tools involved and development environment for Android Programming."
                     ]
