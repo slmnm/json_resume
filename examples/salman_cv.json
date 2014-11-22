@@ -16,10 +16,10 @@
 		"Worked on the Android platform for 2 years. Have full understanding of the Android SDK and the design patterns endorsed by the platform.",
 		"Primarily programmed in Java. Have done fairly complex computation for mobile applications by making use of open source technologies and tools on the linux platform. Proficient with object oriented programming.",
 		"Have taken up multiple roles in a startup that are fundamental in the life of a mobile project. To put it in English -> Market research, architecting requirements, prototyping and designing user experiences, developing software, testing for bugs, documenting code, writing manuals, and providing customer support.",
-		"Have been experimenting heavily with HTML5, CSS, Javascript, Git (and Github). Loving it! A recent personal project that I built -> [aapkamp.in](http://aapkamp.in/) . Design and UX is always priority.",
+		"Have been experimenting heavily with HTML5, CSS, Javascript, Git (and Github). Loving it! A recent personal project that I built -> [aapkamp.in](http://bit.ly/AAPkaMP) . Design and UX is always priority.",
 		"Involved in voluntary work in Indian politics. Web admin for Aam Aadmi Party Mangalore unit. I make heavy use of technology (web and social media) to advocate the cause.",
 		"Technology enthusiast. Highly driven and passionate about creating products for the web (and mobile). Also very passionate about the products I use.",
-		"Love learning new things (not just of technology). Evangelist of Massive Open Online Courses. Have a few certificates -> [accredible.com/u/salmanmushir](https://learning.accredible.com/u/salmanmushir)"
+		"Love learning new things (not just of technology). Evangelist of Massive Open Online Courses. Have a few certificates -> [accredible.com/u/salmanmushir](http://bit.ly/Sal-Certificates)"
 		]
 	},
         "about_me": {
@@ -28,7 +28,7 @@
                 {
                     "dob": "14 Dec 1988",
                     "nationality": "Indian",
-                    "visa_status": "Visiting, valid till 07 Nov 2014",
+                    "visa_status": "Visiting",
                     "passport_no": "L3544113",
                     "gpa": "Single"
                 }
@@ -132,11 +132,11 @@
         "other_projects": {
             "items": [
                 {
-                    "headline": "[AAPkaMP.in | A campaigning tool for Aam Aadmi Party, India](http://aapkamp.in/)",
+                    "headline": "[AAPkaMP.in | A campaigning tool for Aam Aadmi Party, India](http://bit.ly/AAPkaMP)",
                     "points": [
                         "A website showcasing the exemplary nature of the MP candidates representing Aam Aadmi Party in the 28 constituencies in Karnataka.",
-		    	"Includes a tumblr blog at [blog.aapkamp.in](http://blog.aapkamp.in/) documenting the journey of Aam Aadmi Party.",
-			"Tech specs: Responsive website (mobile friendly) built using the CSS framework Bootstrap, and hosted as Github Pages. Code is open source on Github -> [slmnm/AAPkaMP](https://github.com/slmnm/AAPkaMP)",
+		    	"Includes a tumblr blog at [blog.aapkamp.in](http://bit.ly/AAPkaBlog) documenting the journey of Aam Aadmi Party.",
+			"Tech specs: Responsive website (mobile friendly) built using the CSS framework Bootstrap, and hosted as Github Pages. Code is open source on Github -> [slmnm/AAPkaMP](http://bit.ly/AAPkaCode)",
 			"Other features include share buttons using AddThis, donate widget from official sources with real time updates, analytics using google analytics."
                     ]
                 }                
@@ -145,19 +145,19 @@
         "grad_courses": [
             {
                 "name": "Startup Engineering",
-                "url": "https://www.dropbox.com/s/1e2o89tgya0pftd/Salman%20Mushir%20-%20Startup%20Engineering.pdf"
+                "url": "http://bit.ly/Sal-CertStartup"
             },
             {
                 "name": "Programming Mobile Applications for Android Handheld Systems",
-                "url": "https://www.coursera.org/maestro/api/certificate/get_certificate?verify-code=9SGWDCC9U8"
+                "url": "http://bit.ly/Sal-CertMobileApps"
             },
             {
                 "name": "History and Future of (Mostly) Higher Education",
-                "url": "https://www.dropbox.com/s/3b09ft0i66juxs6/Salman%20Mushir%20-%20Coursera%20HigherEd%202014.pdf"
+                "url": "http://bit.ly/Sal-CertHigherEd"
             },
             {
                 "name": "Creativity, Innovation, and Change",
-                "url": "https://www.dropbox.com/s/pi2braje4sphjwd/Salman%20Mushir%20-%20CIC%202013.pdf"
+                "url": "http://bit.ly/Sal-CertCIC"
             }
          ],
         "research_experience": {
@@ -178,7 +178,8 @@
         "extra_curricular": {
             "items": [
                 "I enjoy reading. Was among top 5% of the 10M readers on Pocket in 2013. Or so I was told :) [bit.ly/pocketAward](http://bit.ly/pocketAward)",
-                "I enjoy writing. Have few blog posts scattered around the web."
+                "I enjoy writing. Have few blog posts scattered around the web.",
+ 				"Member of Toastmasters international, a community driven organization for building communication and leadership skills."
             ]
         }
     }
