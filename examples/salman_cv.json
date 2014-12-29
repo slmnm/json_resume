@@ -13,8 +13,7 @@
         "stars": ["Technophile", "Android Developer", "Internet Marketing Specialist"],
 	"summary": {
 		"points":[
-		"Worked on the Android platform for 2 years. Have full understanding of the Android SDK and the design patterns endorsed by the platform.",
-		"Primarily programmed in Java. Have done fairly complex computation for mobile applications by making use of open source technologies and tools on the linux platform. Proficient with object oriented programming.",
+		"Worked on the Android platform for 2 years. Have done fairly complex computation for mobile apps, and have full understanding of the Android SDK and design patterns endorsed by the platform.",
 		"Have taken up multiple roles in a startup that are fundamental in the life of a mobile project. To put it in English -> Market research, architecting requirements, prototyping and designing user experiences, developing software, testing for bugs, documenting code, writing manuals, and providing customer support.",
 		"Have been experimenting heavily with HTML5, CSS, Javascript, Git (and Github). Loving it! A recent personal project that I built -> [aapkamp.in](http://bit.ly/AAPkaMP) . Design and UX is always priority.",
 		"Involved in voluntary work in Indian politics. Web admin for Aam Aadmi Party Mangalore unit. I make heavy use of technology (web and social media) to advocate the cause.",
@@ -165,8 +164,8 @@
                 {
                     "title":"Web Admin",
 			        "organisation": "Aam Aadmi Party, Mangalore",
-			        "from": "Mar. 2013",
-			        "to": "Jun. 2013",
+			        "from": "Mar. 2014",
+			        "to": "Aug. 2014",
 			        "points": [
 			            "Responsible for making content updates (press releases, events, etc) to the Aam Aadmi Party Mangalore official website -> aapdk.com.",
 			            "Involved in occasional ground level work and public meetings concerning the cause and interests supporting Aam Aadmi Party. Also part of the social media and strategy team.",
@@ -177,7 +176,7 @@
         },
         "extra_curricular": {
             "items": [
-                "I enjoy reading. Was among top 5% of the 10M readers on Pocket in 2013. Or so I was told :) [bit.ly/pocketAward](http://bit.ly/pocketAward)",
+                "I enjoy reading. I earned a spot on top 5% of readers on @Pocket App in 2013 & 2014. [bit.ly/Sal-PocketStats14](http://bit.ly/Sal-PocketStats14)",
                 "I enjoy writing. Have few blog posts scattered around the web.",
  				"Member of Toastmasters international, a community driven organization for building communication and leadership skills."
             ]
